@@ -4,6 +4,20 @@ Your Android phone can act as a real Linux server, capable of running APIs, host
 
 This guide shows how to convert your phone into a remote Linux server using Termux.
 
+## Terminal Output
+<table>
+  <tr>
+    <td align="center">
+      <strong>SSH Session (Android Phone – Termux)</strong><br/>
+      <img src="https://github.com/user-attachments/assets/8938ddf0-e069-47e7-b655-cab72a83b61a" width="100%" />
+    </td>
+    <td align="center">
+      <strong>Local PC Terminal</strong><br/>
+      <img src="https://github.com/user-attachments/assets/5217caa7-6ca3-48e2-a28b-4f3b4ee6cb28" width="100%" />
+    </td>
+  </tr>
+</table>
+
 ## What is Termux?
 
 Termux is an Android terminal emulator and Linux environment that:
